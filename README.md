@@ -21,10 +21,7 @@
             </ul>
         <li><a href="#license">License</a></li>
     </ol>
-
 </details>
-<br>
-
 <h1 id="about">What is this?</h1>
 
 BugTracker-backend is the backend code written for our mini-project of semester 6. It is written in NodeJS and uses ExpressJS as the framework. It uses MongoDB as the database and Mongoose as the ODM. JWT is used for authentication and authorization. Being REST APIs, it can be used with any frontend framework of your choice.
